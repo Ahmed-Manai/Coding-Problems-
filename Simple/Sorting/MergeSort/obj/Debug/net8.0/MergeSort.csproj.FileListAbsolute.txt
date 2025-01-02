@@ -1,0 +1,15 @@
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/bin/Debug/net8.0/MergeSort
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/bin/Debug/net8.0/MergeSort.deps.json
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/bin/Debug/net8.0/MergeSort.runtimeconfig.json
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/bin/Debug/net8.0/MergeSort.dll
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/bin/Debug/net8.0/MergeSort.pdb
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/obj/Debug/net8.0/MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/obj/Debug/net8.0/MergeSort.AssemblyInfoInputs.cache
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/obj/Debug/net8.0/MergeSort.AssemblyInfo.cs
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/obj/Debug/net8.0/MergeSort.csproj.CoreCompileInputs.cache
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/obj/Debug/net8.0/MergeSort.sourcelink.json
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/obj/Debug/net8.0/MergeSort.dll
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/obj/Debug/net8.0/refint/MergeSort.dll
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/obj/Debug/net8.0/MergeSort.pdb
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/obj/Debug/net8.0/MergeSort.genruntimeconfig.cache
+/workspaces/Coding-Problems-/Simple/Sorting/MergeSort/obj/Debug/net8.0/ref/MergeSort.dll
